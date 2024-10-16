@@ -1,5 +1,6 @@
 <h1>Hi, I'm Rubén Conde, Computer Engineer <img src= "https://github.com/rubencq26/rubencq26/blob/main/d4mh6ry-6502ac89-97e3-4297-9a10-efcf023654ff.gif" width = 100px ></h1>
 <p>I'm a Second year student of Computer Engineering in Universidad de Huelva(UHU), Spain.</p>
+
   - 🐦‍🔥Geek 
   
   - 🏋️‍♂️Sportsman
