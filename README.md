@@ -1,13 +1,7 @@
 <h1>Hi, I'm Rubén Conde, Computer Engineer <img src= "https://github.com/rubencq26/rubencq26/blob/main/d4mh6ry-6502ac89-97e3-4297-9a10-efcf023654ff.gif" width = 100px ></h1>
 <p>I'm a Second year student of Computer Engineering in Universidad de Huelva(UHU), Spain.</p>
 
-  - 🐦‍🔥Geek 
-  
-  - 🏋️‍♂️Sportsman
-    
-  - 🖥️Programming lover
-    
-  - 🎮Lover of movies, series and video games
+  <img src="https://i.pinimg.com/originals/77/15/2b/77152b56db93379d1c59fb83edfc3fc5.gif"></img>
   <br>
 <a target="_blank" href="https://www.linkedin.com/in/ruben-conde-23a831307/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:rubconqui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
