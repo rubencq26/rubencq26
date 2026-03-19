@@ -23,7 +23,7 @@ Specializing in **Computing (Rama de Computación)**. I focus on how software wo
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true" alt="Ruben's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rubencq26&show_icons=true&theme=dark&hide_border=true" alt="Ruben's Stats" />
 </p>
 
 ---
